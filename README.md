@@ -3,9 +3,9 @@
 
 <p align="left" margin="5px"> <img src="https://komarev.com/ghpvc/?username=awaisniaz&label=Profile%20views&color=0e75b6&style=flat" alt="awaisniaz" /> </p>
 
-<p align="left" <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaisniaz" alt="awaisniaz" /></a> </p>
+<p align="left" margin="5px" <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaisniaz" alt="awaisniaz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left" margin="5px"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Target Tachnology Pakistan **Well and Seismic**
 
@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awaisniaz&show_icons=true&locale=en" alt="awaisniaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisniaz&" alt="awaisniaz" /></p>
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dawaisniaz/count.svg" />
+</p>
