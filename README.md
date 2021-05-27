@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais Niaz</h1>
-<h3 align="center">FullStack developer</h3>
+<h1 align>Hi 👋, I'm Muhammad Awais Niaz</h1>
+<h3 align>FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisniaz&label=Profile%20views&color=0e75b6&style=flat" alt="awaisniaz" /> </p>
 
