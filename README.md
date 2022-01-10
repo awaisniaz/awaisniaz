@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python,Nodejs,Reactjs,React Native,TypeScript,Graphql**
 
-- 📫 How to reach me **owais.niaz@targetofs.com /awaisniaz1995@gmail.com**
+- 📫 How to reach me **awaisniaz1995@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
