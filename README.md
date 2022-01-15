@@ -1,7 +1,8 @@
 <h1 align>Hi 👋, I'm Muhammad Awais Niaz</h1>
 <h3 align>FullStack developer</h3>
 
-<p align="left" margin="5px"> <img src="https://komarev.com/ghpvc/?username=awaisniaz&label=Profile%20views&color=0e75b6&style=flat" alt="awaisniaz" /> </p>
+<p align="left" margin="5px"> 
+  <img src="https://komarev.com/ghpvc/?username=awaisniaz&label=Profile%20views&color=0e75b6&style=flat" alt="awaisniaz" /> </p>
 
 <p align="left" margin="5px" <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaisniaz" alt="awaisniaz" /></a> </p>
 
