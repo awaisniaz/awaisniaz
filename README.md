@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais Niaz</h1>
-<h3 align="center">A passionate Full stack developer with 3+ years of experience with python ,Node,Golang and React,Vuejs.</h3>
+<h3 align="center">A Passionate Full stack developer with 4+ years of experience with Python ,Node,Golang and React,Vuejs,Next js,Nest js,Graphql,AWS,Docker,Jenkins</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisniaz&label=Profile%20views&color=0e75b6&style=flat" alt="awaisniaz" /> </p>
 
