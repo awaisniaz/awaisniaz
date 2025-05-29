@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais Niaz</h1>
-<h3 align="center">🚀 Software Engineer | Backend & Full Stack Expertise: Node.js, NestJS, Golang, JavaScript, TypeScript, React.js, AWS, Docker, DevOps, Web3 💡 Building scalable and efficient systems</h3>
+<h3 align="center">🚀 Software Engineer | Full Stack Expertise: Node.js, NestJS, Golang, JavaScript, TypeScript, React.js, AWS, Docker, DevOps, Web3 💡 Building scalable and efficient systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisniaz&label=Profile%20views&color=0e75b6&style=flat" alt="awaisniaz" /> </p>
 
