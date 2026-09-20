@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais Niaz</h1>
 
-<h3 align="center">Software Engineer : Full Stack Expertise ::: Node.js, NestJS, Python, JavaScript, TypeScript, React.js, AWS, Docker, DevOps, Web3 💡 Building scalable and efficient systems</h3>
+<h3 align="center">Software Engineer : Full Stack Expertise ::: Node.js, NestJS, Golang, JavaScript, TypeScript, React.js, AWS, Docker, DevOps, Web3 💡 Building scalable and efficient systems</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=awaisniaz&label=Profile%20views&color=0e75b6&style=flat" alt="awaisniaz" />
@@ -20,7 +20,7 @@
 
 * 🔭 I’m currently working on **Full Stack Development**
 
-* 🌱 I’m currently learning **Python, System Design, DevOps, Cloud, AI Engineering and MLOps**
+* 🌱 I’m currently learning **Golang, System Design, DevOps, Cloud, AI Engineering and MLOps**
 
 * 👯 I’m looking to collaborate on **Backend, Full Stack, AI and System Design projects**
 
@@ -28,7 +28,7 @@
 
 * 📝 I regularly write articles on https://medium.com/@awaisniaz1995
 
-* 💬 Ask me about **React, Node.js, JavaScript, TypeScript, NestJS, Python, AWS, Docker, Kafka, RabbitMQ, Elasticsearch and Redis**
+* 💬 Ask me about **React, Node.js, JavaScript, TypeScript, NestJS, Golang, AWS, Docker, Kafka, RabbitMQ, Elasticsearch and Redis**
 
 * 📫 How to reach me **[awaisniaz1995@gmail.com](mailto:awaisniaz1995@gmail.com)**
 
@@ -120,6 +120,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a>
 
+<a href="https://golang.org" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+</a>
+
 <a href="https://graphql.org" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 </a>
@@ -176,10 +180,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
 </a>
@@ -218,3 +218,8 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisniaz&" alt="awaisniaz" />
 </p>
+```
+
+**Main change:** old `raw.githubusercontent.com/devicons/devicon/master/...` icon references ko current Devicon CDN format par shift kiya hai. Devicon officially CDN/direct SVG usage document karta hai.
+
+Tumhare **RabbitMQ, social icons, GitHub stats, trophy aur profile-view URLs ko unnecessarily replace nahi kiya**.
