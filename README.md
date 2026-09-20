@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaisniaz" alt="awaisniaz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **Golang, System design, Data Science and AI**
@@ -28,20 +26,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="c">
+<p align="center">
   <span style="display:inline-block; border:1px solid #ccc; padding:8px; margin:6px; border-radius:10px;">
-    <a href="https://dev.to/@muhammadawaisniaz" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@muhammadawaisniaz" height="30" width="40" />
+    <a href="https://dev.to/muhammadawaisniaz" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammadawaisniaz" height="30" width="40" />
     </a>
   </span>
   <span style="display:inline-block; border:1px solid #ccc; padding:8px; margin:6px; border-radius:10px;">
     <a href="https://linkedin.com/in/awais1995" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais1995" height="30" width="40" />
-    </a>
-  </span>
-  <span style="display:inline-block; border:1px solid #ccc; padding:8px; margin:6px; border-radius:10px;">
-    <a href="https://stackoverflow.com/users/awais-niaz" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="awais-niaz" height="30" width="40" />
     </a>
   </span>
   <span style="display:inline-block; border:1px solid #ccc; padding:8px; margin:6px; border-radius:10px;">
@@ -55,7 +48,7 @@
     </a>
   </span>
   <span style="display:inline-block; border:1px solid #ccc; padding:8px; margin:6px; border-radius:10px;">
-    <a href="https://www.leetcode.com/awais_niaz" target="_blank">
+    <a href="https://leetcode.com/awais_niaz" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="awais_niaz" height="30" width="40" />
     </a>
   </span>
@@ -67,4 +60,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awaisniaz&show_icons=true&locale=en" alt="awaisniaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisniaz&" alt="awaisniaz" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=awaisniaz" alt="awaisniaz" /></p>
